@@ -39,5 +39,5 @@ Utiliza sensores conectados a la **placa PlayIoT** y procesa los datos con **Pyt
 ---
 
 ## 📧 Contacto  
-👤 Autor: [Diegx22v](https://github.com/Diegx22v)  
+👤 Autor: [Diego Villota](https://github.com/Diego-Villota)  
 💬 Si tienes dudas o sugerencias, abre un issue
