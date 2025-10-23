@@ -76,7 +76,7 @@ def conectar_a_internet(nombre_de_red, password):
 def enviar_mensaje_telegram(mensaje):
     # define link de envio e info a mandar 
     url = "https://api.telegram.org/bot{}/sendMessage".format(token_api)
-    data = {"id": id, "text": mensaje}
+    data = {"chat_id": id, "text": mensaje}
         
     try:
         # intenta mandar el mensaje 
