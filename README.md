@@ -31,10 +31,12 @@ Utiliza sensores conectados a la **placa PlayIoT** y procesa los datos con **Pyt
 
 | 📁 Carpeta/Archivo | 📌 Descripción |
 |--------------------|----------------|
-| `main.py`          | Script principal de detección, control y notificación |
-| `README.md`        | Documentación del proyecto |
-| `ssd1306.py`        |  Libreria para el uso de la pantalla OLED |
 | `.gitignore`     | Archivo que ignora el rastreo y subida de archivos con información sensible (como el archivo que contiene las variables como TOKENS de APIs y demás|  
+| `LICENSE`     |  establece la Licencia MIT y los derechos de uso del proyecto.|  
+| `README.md`        | Documentación del proyecto |
+| `main.py`          | Script principal de detección, control y notificación |
+| `ssd1306.py`        |  Libreria para el uso de la pantalla OLED |
+
 
 ---
 
